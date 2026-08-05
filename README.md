@@ -84,15 +84,15 @@ Cliente
 
 ## 📸 Capturas
 
-### Fluxograma
+###  ## 🗺️ Fluxograma da comunicação Cliente-Servidor
 
-*(<img width="1536" height="1024" alt="Fluxograma_Arquitetura_YouTube png" src="https://github.com/user-attachments/assets/afdfce60-ee01-44a3-a367-77f7cc80b9a8" />
-)*
+*<img width="1536" height="1024" alt="Fluxograma_Arquitetura_YouTube png" src="https://github.com/user-attachments/assets/afdfce60-ee01-44a3-a367-77f7cc80b9a8" />
+*
 
-### DevTools
+### ## 📡 Captura do tráfego HTTP (DevTools)
 
-*(<img width="936" height="632" alt="Captura de tela 2026-08-04 204802" src="https://github.com/user-attachments/assets/2a6f0d8d-9e80-44f4-b1ab-a02e443d57c1" />
-)*
+*<img width="936" height="632" alt="Captura de tela 2026-08-04 204802" src="https://github.com/user-attachments/assets/2a6f0d8d-9e80-44f4-b1ab-a02e443d57c1" />
+*
 
 ---
 
